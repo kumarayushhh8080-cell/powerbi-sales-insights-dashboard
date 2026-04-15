@@ -45,4 +45,6 @@ This project is an interactive Sales Dashboard built using Power BI. It provides
 	•	Built interactive and dynamic dashboards
 	•	Handled real-world data issues like duplicates and missing values
 	•	Improved data storytelling and visualization skills
-	                                                                            ⭐ If you like this project, don’t forget to give it a star!
+	                                                                            
+																				
+																				⭐ If you like this project, don’t forget to give it a star!
